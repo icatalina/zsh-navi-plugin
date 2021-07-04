@@ -16,3 +16,5 @@ function navi_widget() {
 
     zle redisplay
 }
+
+zle -N navi_widget

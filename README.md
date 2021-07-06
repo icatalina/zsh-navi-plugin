@@ -25,3 +25,7 @@ Prefixing a command with `run:` will make the plugin run the command as opposed 
 # Open current repo in github
 run: gh repo view --web
 ```
+
+# Other ZSH Plugins
+
+Mini Prompt: [icatalina/zsh-mini-prompt](https://github.com/icatalina/zsh-mini-prompt)
